@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/michaelgv/devmeblog/issues"
   },
-  "homepage": "https://github.com/michaelgv/devmeblog#readme"
+  "homepage": "https://github.com/michaelgv/devmeblog#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-netlify": "^1.1.0"
+  }
 }
