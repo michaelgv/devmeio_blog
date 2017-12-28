@@ -2,7 +2,7 @@
 layout: post
 title:  "Reflections on this year, and aspirations for next"
 date:   2017-12-28 12:37:02 -0500
-categories: blog tech til reflections christmas
+categories: blog tech christmas
 ---
 
 # It's been a crazy year
